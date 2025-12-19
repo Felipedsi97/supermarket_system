@@ -18,7 +18,7 @@ The core of a system is how data is stored. Data is information, and we store it
 
 ## Database Schema
 
-![Project Schema](Structure/SUPERMARKET_SCHEMA.SVG)
+![Project Schema](Structure/SUPERMARKET_SCHEMA.svg)
 
 ### Entities
 
